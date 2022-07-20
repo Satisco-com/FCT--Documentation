@@ -1,5 +1,7 @@
 # Getting Started #
 
+[Home Page](../README.md)
+
 ## The software ##
 This software will be managed and developed by Satisco enterprise under Alan Allman Associates holding.
 This soft had a lot of names:
@@ -16,6 +18,3 @@ Anthony DANSET will be the solution Architect
 ## The contributors ##
 Julien TSO as developer
 Valentin CUVELIER as developer
-
-## Home page ##
-[Home Page](../README.md)
