@@ -4,7 +4,4 @@
 
 ## Getting Started ##
 
-test 1
-<img src="FCT--Framework--DataModel--Shunting.png" width="200">
-test 2
-![text](FCT--Framework--DataModel--Shunting.png) { width: 200px; }
+<img src="FCT--Framework--DataModel--Shunting.png" width="200" align="center">
