@@ -6,8 +6,8 @@
 
 <p align="center"><img src="FCT--Framework--DataModel--Shunting.png" width="200"></p>
 
-L'expérience de __ADES__ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
-La révision __2.0.0__ du modèle __ADES__ a donc permis de créer un nouveau composant, le __Shunting__.
+L'expérience de ____ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
+La révision __2.0.0__ du modèle ____ a donc permis de créer un nouveau composant, le __Shunting__.
 
 Le __Shunting__ sera donc la __gare de triage de FCT__ que ce soit depuis une __communication externe__ ou même à l'interieur d'un __scénario__.
 > Ex: Deux messages sont récupérés d'un même dossier mais le traitement est différent en fonction des données
@@ -20,7 +20,7 @@ L'idée sera d'utiliser cette fonction à __l'interieur d'un scénario__ uniquem
 C'est la table __primaire du Shunting__, elle autorise jusqu'à __5 clés de filtrage__ basiques appelées __SHUNTER_KEY__.
 Ceci ne signifie pas qu'il ne sera pas possible de filtrer au dela de 5 clés, mais plutôt que ces __5 clés__ représentent un __filtrage plus rapide__.
 L'__IHM__ de FCT sera utilisée avec la fonctionnalité de __Generic Codes__ afin de customiser le __nom des clés__ en fonction de __l'utilisateur__.
-> Ex: Chez CMA-CGM, nous avons Sender, Receiver, ShipcompCode, TradingPartner et MessageCode
+> Ex: Chez XXXX, nous avons Sender, Receiver, ShipcompCode, TradingPartner et MessageCode
 
 La __priorité__ a pour but d'__augmenter les performances__ du Shunter car il est possible qu'un channel transmette plusieurs type de messages, il est donc préférable de mettre en __priorité 1__, les __messages__ les plus __nombreux__ selon les __statistiques__ afin d'éviter trop de __calcul inutile__.
 

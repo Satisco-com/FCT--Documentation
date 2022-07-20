@@ -46,7 +46,7 @@ Elle permet non seulement d'utiliser une même __map ITX__ dans des configuratio
 > Ex: Un client Satisco utilise un modèle équivalent avec ITX mais aussi avec SBI. Une action est donc aussi une action SBI.
 
 ## Data ##
-Elle est apparue lors de la révision du modèle __ADES, version 2.0.0__ lors de l'étude de la __problématique__ concernant la partie __Routing__.
+Elle est apparue lors de la révision du modèle __, version 2.0.0__ lors de l'étude de la __problématique__ concernant la partie __Routing__.
 L'idée était de rassembler les fonctionalités de Matching et Routing mais pour cela nécessitait de supprimer les liens vers Processing, ITX et Communication.
 Cette table sera une des __rare contrainte__ pour les __dévelopeurs__ car elle nécessitera certainement un format spécifique pour le framework afin de parser correctement les données et paramètres.
 Son but est de permettre __l'identification__ précise d'une __données de sortie__ et ainsi ne plus la lier forcément à une carte de sortie physique ITX.

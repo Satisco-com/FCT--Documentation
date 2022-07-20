@@ -4,7 +4,7 @@
 
 ## Versions ##
 - V0.1.0
-	- Modèle basé sur ADES de la CMA-CGM avec suppression des colonnes possiblement inutiles et ajout de colonnes nécessaire.
+	- Modèle basé sur  de la XXXX avec suppression des colonnes possiblement inutiles et ajout de colonnes nécessaire.
 - V0.2.0
 	- Suppression de la partie routing pour un merge entre Matching et Routing afin de créer le Shunting
 	- C'est ici qu'apparait la table Data qui permet de supprimer la partie Routing et ses dépendances complexes

@@ -6,8 +6,8 @@
 
 <p align="center"><img src="FCT--Framework--DataModel--Shunting.png" width="200"></p>
 
-L'expérience de __ADES__ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
-La révision __2.0.0__ du modèle __ADES__ a donc permis de créer un nouveau composant, le __Shunting__.
+L'expérience de ____ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
+La révision __2.0.0__ du modèle ____ a donc permis de créer un nouveau composant, le __Shunting__.
 
 Le __Shunting__ sera donc la __gare de triage de FCT__ que ce soit depuis une __communication externe__ ou même à l'interieur d'un __scénario__.
 > Ex: Deux messages sont récupérés d'un même dossier mais le traitement est différent en fonction des données
