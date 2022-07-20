@@ -13,3 +13,10 @@ Le principe de base du __Processing__ est de pouvoir executer une ou plusieurs a
 Le __second__ principe __important__ est de garder la possibilité de __réutilisabilité__ des activités et des scénario.
 > Ex: Une activité d'encodage en Latin-1 disponible pour tous
 > Ex: Un scénario d'intégration de fichier EDIFACT de type IFTMBF commun à tous client
+
+## Scenario ##
+Cette table était dans une version beta de FCT, une table de jonction entre un Assembly et un Stage et permettait la __réutilisabilité__ d'un groupe de Stage et donc d'Action.
+__L'évolution__ de FCT a permis __d'affranchir__ l'interraction entre un __Assembly__ et les informations __fonctionnelles Partner et Message__.
+ 
+Un __Scenario__ représente donc aujourd'hui __un ou plusieurs Stage__ qui peuvent avoir des types différents.
+Son but est de permettre la __réutilisatibité__ d'un __process__ en entier pour un __Partner et un Message différent__.
