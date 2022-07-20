@@ -4,4 +4,4 @@
 
 ## Getting Started ##
 
-![Alt text](FCT--Framework--DataModel--Shunting.png?raw=true)
+![Alt text](FCT--Framework--DataModel--Shunting.png?raw=true?width="50%"?height="50%")
