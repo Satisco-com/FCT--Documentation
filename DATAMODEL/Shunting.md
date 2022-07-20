@@ -5,4 +5,4 @@
 ## Getting Started ##
 
 ![Alt text](FCT--Framework--DataModel--Shunting.png|width=100px)
-<img src="FCT--Framework--DataModel--Shunting.png" width="500" height="500">
+<img src="FCT--Framework--DataModel--Shunting.png" width=500 align=middle>
