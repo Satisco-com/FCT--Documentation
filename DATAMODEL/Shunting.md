@@ -26,3 +26,12 @@ La __priorité__ a pour but d'__augmenter les performances__ du Shunter car il e
 
 En toute bonne __gare de triage__, cette table aura le plus de __liens__ avec les autres. Elle sera __centrale au modèle__.
 Il sera donc possible de passer d'un __Channel à un Scenario__, d'une __Data à un Stage__ ou d'une __Data à un Channel__.
+
+## Rules ##
+Cette table est basée sur le __principe de clé/valeur__. C'est une __extension de Shunting__ afin d'ajouter de nouveau mode plus __avancés__.
+L'idée est de pouvoir créer de nouvelles __briques d'identifications__, __pas__ toujours forcément __nécessaires mais utiles__ dans certains cas.
+> Ex: des règles de type EDIFACT afin de vérifier une valeur précise à l'interieur d'un fichier IN
+> Ex: des règles de type REGEX appliquées sur le nom du fichier IN
+
+Pour qu'un __Shunting soit validé__, il faudra que l'intégralité des __rules__ liées le soit __aussi__.
+La __priorité__ y sera aussi géré mais d'une façon différent du Shunting. Il sera ici question de définir en __priorité 1__, les __règles__ qui sont __vrai le moins souvent__ possible. De cette façon, la __première rule non valide__ permettera d'__invalider le Shunting__ lié.
