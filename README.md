@@ -1,17 +1,4 @@
-# HOME PAGE - FCT Documentation #
+example
+=======
 
-## MINDSET ##
-[Getting Started](MINDSET/GettingStarted.md)
-
-[Constraint](MINDSET/Constraint.md)
-
-[Philisophy](MINDSET/Philisophy.md)
-
-## DATA MODEL ##
-[Releases](DATAMODEL/ReleaseNote.md)
-
-[Processing](DATAMODEL/Processing.md)
-
-[Shunting](DATAMODEL/Shunting.md)
-
-[ITX](DATAMODEL/ITX.md)
+Jekyll example Project site
