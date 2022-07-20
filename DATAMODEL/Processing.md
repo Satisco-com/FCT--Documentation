@@ -8,3 +8,8 @@ Il y a une tendance à confondre le __Processing__ avec __FCT__, c'est normal ca
  
 Le principe de base du __Processing__ est de pouvoir executer une ou plusieurs activités à la suite. D'un point de vue __ITX__, cela sera représenté par __l'execution d'une ou plusieurs maps__ où il sera possible d'échanger des données entre chacun d'entre elle.
 > Ex: La réception d'un fichier EDIFACT transformé tout d'abord dans un format Pivot XML puis intégré dans un backend client
+
+
+Le __second__ principe __important__ est de garder la possibilité de __réutilisabilité__ des activités et des scénario.
+> Ex: Une activité d'encodage en Latin-1 disponible pour tous
+> Ex: Un scénario d'intégration de fichier EDIFACT de type IFTMBF commun à tous client
