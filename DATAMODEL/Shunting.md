@@ -17,4 +17,4 @@ En toute bonne __gare de triage__, cette table aura le plus de __liens__ avec le
 Il sera donc possible de passer d'un __Channel à un Scenario__, d'une __Data à un Stage__ ou d'une __Data à un Channel__.
 
 > **Warning**
-> la gestion d'un mode transfer sans passer par aucune action
+> To be defined: la gestion d'un mode transfer sans passer par aucune action
