@@ -7,4 +7,4 @@
 test 1
 <img src="FCT--Framework--DataModel--Shunting.png" width="200">
 test 2
-![](FCT--Framework--DataModel--Shunting.png =250x)
+![text](FCT--Framework--DataModel--Shunting.png){ width=60% }
