@@ -9,5 +9,6 @@ github_username:  ThonyTruant
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:title:output_ext
 
 theme: jekyll-theme-slate
