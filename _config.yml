@@ -2,7 +2,7 @@
 title: Satisco Control Tower
 email: a.danset@satisco.com
 description: > # this means to ignore newlines until "baseurl:"
-To be defined
+  To be defined
 baseurl: "/FCT--Documentation" # the subpath of your site, e.g. /blog/
 url: "https://satisco-com.github.io/FCT--Documentation/" # the base hostname & protocol for your site
 github_username:  ThonyTruant
