@@ -1,3 +1,8 @@
+---
+title: Home Page
+layout: default
+---
+
 # HOME PAGE - FCT Documentation #
 
 ## MINDSET ##
