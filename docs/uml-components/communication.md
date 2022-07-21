@@ -8,7 +8,7 @@ nav_order: 4
 # Communication #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Communication.png" width="250"></p>
+<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Communication.png" width="500"></p>
 
 La partie Communication Settings représente ce qu’on appellera dans le futur les Connector In et Connector Out du Framework.
 
