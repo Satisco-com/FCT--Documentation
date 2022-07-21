@@ -8,7 +8,7 @@ nav_order: 2
 # Shunting #
 
 ## Introduction ##
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Shunting.png" width="200"></p>
+<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Shunting.png" width="250"></p>
 
 L'expérience de ____ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
 La révision __2.0.0__ du modèle ____ a donc permis de créer un nouveau composant, le __Shunting__.

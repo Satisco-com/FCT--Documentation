@@ -7,3 +7,4 @@ permalink: /docs/uml-components
 ---
 
 # UML Components
+![Overview](../../assets/img/uml/FCT--Framework--DataModem--Overview.jpg)
