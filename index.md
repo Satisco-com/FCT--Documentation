@@ -10,6 +10,7 @@ permalink: /
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Satisco-com/FCT--Documentation){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Getting started
+FCT est un logiciel conçu par Satisco SA Enterprise répondant aux principes EAI.
 
 ---
 ## About the project
