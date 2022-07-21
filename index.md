@@ -1,24 +1,42 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
+nav_order: 1
+description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+permalink: /
 ---
 
-# HOME PAGE - FCT Documentation #
+# HOME PAGE - FCT Documentation
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Satisco-com/FCT--Documentation){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-## MINDSET ##
-[Getting Started](MINDSET/GettingStarted.md)
+## Getting started
 
-[Constraint](MINDSET/Constraint.md)
+---
+## About the project
 
-[Philisophy](MINDSET/Philisophy.md)
+### The software
+This software will be managed and developed by Satisco enterprise under Alan Allman Associates holding.
+This soft had a lot of names:
+FCT: Financial Control Tower
+ACT: Advanced Control Tower
+SCT: Satisco Control Tower
+SEB: Satisco Service Bus
+Let's keep FCT until a real name will be found and defined but this software will not represent only the Financial possibilities.
 
-## DATA MODEL ##
-[Releases](DATAMODEL/ReleaseNote.md)
+### Team ##
+Laurent BARTHELEMY will be the Product Owner
+Anthony DANSET will be the solution Architect
 
-[Processing](DATAMODEL/Processing.md)
+### Contributors ##
+Julien TSO as developer
+Valentin CUVELIER as developer
 
-[Shunting](DATAMODEL/Shunting.md)
+### Indépendance logicielle
 
-[ITX](DATAMODEL/ITX.md)
+Pas de DB préférentielle notamment => [J\|O\]DBC pour la connexion à la DB interne
+
+### Phylisophy
+
+1. Développement Agile => fonctionnalités de base en premier, on enrichit au fur et à mesure
+2. On spécifie, échange et documente avant de coder
+3. Nous sommes une équipe, nous pensons équipe. Il n'y a pas de développeur fou et solitaire.

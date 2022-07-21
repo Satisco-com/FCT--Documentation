@@ -1,10 +1,14 @@
+---
+layout: default
+title: Processing
+parent: UML Components
+nav_order: 1
+---
+
 # Processing #
 
-[Home Page](../README.md)
-
-## Getting Started ##
-
-<p align="center"><img src="FCT--Framework--DataModel--Processing.png" width="450"></p>
+## Introduction ##
+<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Processing.png" width="200"></p>
 
 Le __Processing__ c'est le coeur de __FCT__. Il est né d'abord de ce qui était le __Brouteur__ dans __FCT__. Il a ensuite évolué avec les années afin d'arriver petit à petit à un __système complet__ de Processing.
 Il y a une tendance à confondre le __Processing__ avec __FCT__, c'est normal car il contenait aussi à l'origine une fonctionnalité de __Matching__ qui a cependant été supprimé dans les évolutions pour implémenter un composant à part entière.
