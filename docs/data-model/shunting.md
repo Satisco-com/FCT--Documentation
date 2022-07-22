@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Shunting
-parent: UML Components
+parent: Data Model
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Business Mining
-parent: UML Components
+parent: Data Model
 nav_order: 11
 ---
 

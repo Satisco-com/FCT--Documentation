@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ChangeLog
-parent: UML Components
+parent: Data Model
 ---
 
 # ChangeLog

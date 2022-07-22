@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Framework
-parent: UML Components
+parent: Data Model
 nav_order: 7
 ---
 

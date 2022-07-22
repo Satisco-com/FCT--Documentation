@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-parent: UML Components
+parent: Data Model
 nav_order: 9
 ---
 

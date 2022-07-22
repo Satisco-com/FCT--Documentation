@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Partner
-parent: UML Components
+parent: Data Model
 nav_order: 5
 ---
 

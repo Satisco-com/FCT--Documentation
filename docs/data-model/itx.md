@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ITX
-parent: UML Components
+parent: Data Model
 nav_order: 3
 ---
 
