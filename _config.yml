@@ -18,30 +18,41 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Satisco Application Integration
-email: a.danset@satisco.com
-description: Documentation about SAI
-baseurl: ""
-url: ""
-
-# Set a path/url to a logo that will be displayed instead of the title
+title: FCT Documentation
 logo: "/assets/img/branding/SATISCO-logo-full.png"
+email: a.danset@satisco.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/FCT--Documentation" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ThonyTruant
 
-# Footer content
-# appears at the bottom of every page's main content
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-footer_content: "Copyright &copy; 2022 Satisco. All rights reserved. Designed and build by Anthony DANSET"
-
-
-# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+# Build settings
+#theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: satisco
 plugins:
   - jekyll-feed
 
-# Git
-github_username:  ThonyTruant
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
