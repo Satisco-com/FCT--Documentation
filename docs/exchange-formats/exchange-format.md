@@ -22,7 +22,7 @@ Deux formats sont aujourd'hui très facilement gérable avec ITX, le XML et le J
 Tous deux ont un format de schéma relatif, le XSD pour le XML et le JSON Schema pour JSON.
 Dans ITX, il est possible de les utiliser pour générer un type tree mais attention en ITX 9, l'importateur JSON n'est pas optimisé et l'importateur XML a lui aussi certaine limite comme la gestion du CDATA en mode Classic ou de la concaténation de XML en mode Xerces.
 
-L'expérience CMA-CGM nous a démontré que le XML ne se prête pas bien à toute les situations et contient certaines limitations.
+L'expérience XXXX nous a démontré que le XML ne se prête pas bien à toute les situations et contient certaines limitations.
 Par exemple, le besoin UTF-8 ou l'encodage en Base64 pour intégrer un XML dans un XML (le xs:any n'est pas bien représenté en ITX).
 De plus le XML reste l'un des formats les plus verbeux et même s'il est facilement lisible par l'Humain, il est consommateur de ressource.
 
