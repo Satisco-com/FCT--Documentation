@@ -5,7 +5,6 @@ parent: UML Components
 nav_order: 1
 ---
 
-{: style="text-align: justify" }
 # Processing #
 
 ## Introduction ##
