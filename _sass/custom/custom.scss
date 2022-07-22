@@ -10,3 +10,6 @@ $black: #36454F !default;
 .btn-orange {
   @include btn-color($black, $orange-000);
 }
+.btn-white {
+  @include btn-color($black, $white);
+}
