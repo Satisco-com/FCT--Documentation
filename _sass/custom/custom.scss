@@ -1,0 +1,12 @@
+$orange-000: #FFAC1C !default;
+$orange-100: #F28C28 !default;
+$orange-200: #FFA500 !default;
+$orange-300: #FF7F50 !default;
+
+$black: #36454F !default;
+
+
+
+.btn-orange {
+  @include btn-color($black, $orange-000);
+}
