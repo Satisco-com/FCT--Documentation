@@ -6,6 +6,14 @@ $orange-300: #FF7F50 !default;
 $black: #36454F !default;
 
 
+$body-background-color: $orange-300;
+$sidebar-color: $orange-300;
+$border-color: $orange-300;
+$btn-primary-color: $orange-300;
+$base-button-color: $orange-300;
+$code-background-color: $orange-300;
+$search-background-color: $orange-300;
+
 
 .btn-orange {
   @include btn-color($black, $orange-000);
