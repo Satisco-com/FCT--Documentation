@@ -7,7 +7,7 @@ permalink: /docs/data-model
 ---
 
 # Data Model
-[![Overview](../../assets/img/uml/FCT--Framework--DataModel--Overview.jpg)](../../../FCT--Documentation/assets/img/uml/FCT--Framework--DataModel--Overview.jpg)
+[![Overview](../../assets/img/data-model/DataModel-v0.8.0.png)](../../assets/img/data-model/DataModel-v0.8.0.png)
 
 
 ## Presentation

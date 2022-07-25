@@ -8,7 +8,7 @@ nav_order: 7
 # Framework #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Framework.png" width="250"></p>
+<p align="center"><img src="../../assets/img/data-model/Framework.png" width="250"></p>
 
 C'est une section sans lien physique avec les autres tables. Le but est de fournir assez de paramètres au framework pour ne pas avoir à effectuer de nouvelle livraison mais simplement un changement de setup.
 

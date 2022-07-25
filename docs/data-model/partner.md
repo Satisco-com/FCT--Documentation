@@ -8,7 +8,7 @@ nav_order: 5
 # Partner #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Partner.png" width="250"></p>
+<p align="center"><img src="../../assets/img/data-model/Partner.png" width="250"></p>
 
 La section Partner reste optionnelle et permettra une meilleur visibilité et suivi dans le monitoring de SSB.
 

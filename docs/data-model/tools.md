@@ -8,7 +8,7 @@ nav_order: 9
 # Tools #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--Tools.png" width="600"></p>
+<p align="center"><img src="../../assets/img/data-model/Tools.png" width="600"></p>
 
 
 ## Transform Format et Code

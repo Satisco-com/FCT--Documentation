@@ -8,7 +8,7 @@ nav_order: 3
 # ITX #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/uml/FCT--Framework--DataModel--ITX.png" width="450"></p>
+<p align="center"><img src="../../assets/img/data-model/ITX.png" width="450"></p>
 
 Le section __ITX__ est séparée du reste du modèle. C'est une section qui permettra la __configuration de map__ séparément du contexte d'une activité. Le but étant de ne pas garder un __modèle fermé à l'exécution de process ITX__.
 C'est une partie qui nécessitera une __expertise ITX__ pour le bon setup et une __documentation du framework__ afin de garantir la compréhension de certaines clés/fonctionnalités offertes par le framework.
