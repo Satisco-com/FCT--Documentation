@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Business Mining
+title: Cyan - Business Mining
 parent: Data Model
 nav_order: 11
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Message
+title: Red - Message
 parent: Data Model
 nav_order: 6
 ---

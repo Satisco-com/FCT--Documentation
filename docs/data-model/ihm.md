@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IHM
+title: Black - IHM
 parent: Data Model
 nav_order: 8
 ---

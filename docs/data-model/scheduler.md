@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Scheduler
+title: Dark Red - Scheduler
 parent: Data Model
 nav_order: 10
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ITX
+title: Purple - ITX
 parent: Data Model
 nav_order: 3
 ---

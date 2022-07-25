@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Partner
+title: Pink - Partner
 parent: Data Model
 nav_order: 5
 ---

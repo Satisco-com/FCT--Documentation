@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: FCT Documentation
+title: SAI Documentation
 logo: "/assets/img/branding/SATISCO-logo-full.png"
 email: a.danset@satisco.com
 description: >- # this means to ignore newlines until "baseurl:"

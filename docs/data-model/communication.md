@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Communication
+title: Blue - Communication
 parent: Data Model
 nav_order: 4
 ---
