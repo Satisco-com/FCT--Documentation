@@ -34,3 +34,5 @@ Dans le cas de **SAIF** (Satisc Application Integration Framework), un thread de
 >**Attention**: il a été volontairement choisi de ne pas executer plusieurs Stage dans un seul Processing à cause de la complexité du code et donc de sa maintenance avec le produit ITX. Ceci l'exclus pas cette possibilité avec un autre logiciel.
 
 La problématique de **SAIF** est qu'il est difficile de suivre une execution en détail car les outils de base de ITX sont limités. L'idée est de réussir à faire du monitoring presque en temps réel.
+Pour cela, il faudra trouver un adapteur capable d'envoyer l'événement de monitoring avant même que le Processing soit fini et donc à chaque fin d'activité.
+Il sera ainsi possible de tracer une possible execution trop longue ou tombée sans erreur.
