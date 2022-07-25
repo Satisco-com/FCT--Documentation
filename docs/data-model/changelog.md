@@ -9,14 +9,14 @@ parent: Data Model
 All notable changes to this project are documented in this file.
 
 ## v0.7.0
-[Annex 6](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.7.0.png)
+[Annex 6](../../assets/img/data-model/archives/DataModel-v0.7.0.png)
 
 ### Features
 
 - Ajout d'une table de scheduler basée sur le fonctionnement du crontab
 
 ## v0.6.0
-[Annex 5](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.6.0.png)
+[Annex 5](../../assets/img/data-model/archives/DataModel-v0.6.0.png)
 
 ## Features
 
@@ -24,7 +24,7 @@ All notable changes to this project are documented in this file.
 - Nous supprimons donc Scenario pour renommer ensuite Flow par Scenario.
 
 ## v0.5.0
-[Annex 4](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.5.0.png)
+[Annex 4](../../assets/img/data-model/archives/DataModel-v0.5.0.png)
 
 ### Features
 
@@ -34,7 +34,7 @@ All notable changes to this project are documented in this file.
 - Les codes communs sont possiblement à prévoir dans la partie Label/value
 
 ## v0.4.0
-[Annex 3](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.4.0.png)
+[Annex 3](../../assets/img/data-model/archives/DataModel-v0.4.0.png)
 
 ### Features
 
@@ -44,7 +44,7 @@ All notable changes to this project are documented in this file.
 - L'idée est donc de lier un message à la table Data. Ceci permet de spécifier le type de message entrant et sortant pour une activité en particulier et donc dans un contexte précis.
 
 ## v0.3.0
-[Annex 2](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.3.0.png)
+[Annex 2](../../assets/img/data-model/archives/DataModel-v0.3.0.png)
 
 ### Features
 
@@ -54,7 +54,7 @@ All notable changes to this project are documented in this file.
 - Ceci permet de supprimer le lien entre Shunting et Partner, il devient ici implicit via la table Channel.
 
 ## v0.2.0
-[Annex 1](../../FCT--Documentation/assets/img/data-model/archives/DataModel-v0.2.0.png)
+[Annex 1](../../assets/img/data-model/archives/DataModel-v0.2.0.png)
 
 ### Features
 - Suppression de la partie routing pour un merge entre Matching et Routing afin de créer le Shunting
