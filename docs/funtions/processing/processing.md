@@ -11,6 +11,8 @@ permalink: /docs/functionalities/processing
 
 ## Presentation
 
-Ici nous parlons de l'un des composants majeur de **SAI**, même s'il n'y en a pas beaucoup. C'est le coeur du metier de **Satisco** et la fer de lance du projet **ITX**, même si encore une fois le but n'est pas de se coller au produit **ITX**.
+**SAI** ne contient pas beaucoup de composants framework et le _Processing_ est l'un d'eux.
+Ce _Processing_ a une particularité car même en admettant que **SAIF** soit principalement conçu avec **ITX**, il est possible d'avoir plusieurs Processing dans **SAI**.
+>**Exemple:** Un processing ITX principal, un Processing SBI secondaire et un Processing Java tierce.
 
-Le processing a pour but principal d'executer une sous-tâche, une action. C'est un composant presque incontournable pour tous les flux sauf les flux de transfer.
+Le _Processing_ 
