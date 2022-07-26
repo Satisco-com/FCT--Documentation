@@ -50,7 +50,7 @@ Notre but est de promouvoir le plus simple mais aussi le meilleurs des outils, q
 ### Le logiciel
 
 {: style="text-align: justify" }
-Le projet sera développé et maintenu par Satisco SA Enterprise. Il a eu bien des noms avec le temps _(FCT, SEB, ...)_ mais l'architecture conçu par Anthony DANSET et Julien TSO lors d'une de leur mission ainsi que leur cinq années d'expérience en conditions réelle a fait naître **SAI**.
+Le projet sera développé et maintenu par Satisco SA Enterprise. Il a eu bien des noms avec le temps _(FCT, SEB, ...)_ mais l'architecture conçu par Anthony DANSET et Julien TSO lors de plusieurs travaux collaboratif interne à Satsco a fait naître **SAI**.
 Ce qu'on pensait à la base être un ESB n'est en fait qu'un simple EAI, et c'est bien cette simplicité qu'il faudra conserver dans le temps.
 
 ### L'équipe
