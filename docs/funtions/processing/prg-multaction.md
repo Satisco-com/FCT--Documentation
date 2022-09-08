@@ -8,7 +8,7 @@ permalink: /docs/functionalities/processing/multaction
 ---
 
 
-# Function 1
+# Multaction
 
 ## Présentation
 
