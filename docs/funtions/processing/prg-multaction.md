@@ -37,3 +37,8 @@ La problématique de **SAIF** est qu'il est difficile de suivre une execution en
 Pour cela, il faudra trouver un adapteur capable d'envoyer l'événement de monitoring avant même que le Processing soit fini et donc à chaque fin d'activité.
 Il sera ainsi possible de tracer une possible execution trop longue ou tombée sans erreur critique.
 >**Note**: La piste de l'utilisation de l'adapteur socket ITX est à creuser.
+
+
+## Test Parts
+
+Le pentagramme de cette fonctionalité est "MIACT".
