@@ -29,7 +29,7 @@ Afin de bien documenter les leçons apprises et ainsi faciliter les échanges à
 
 ## Liste
 
-| Test ID   	| Description  	| Initial Date  	|
+| Lesson ID   	| Description  	| Initial Date  	|
 |---	|---	|
 | CER-PRG-MIACT-00000  	| Unknown  	| 16 Sept 2022  	|
 | CER-PRG-MIACT-00001  	| No Action found  	| 16 Sept 2022  	|
