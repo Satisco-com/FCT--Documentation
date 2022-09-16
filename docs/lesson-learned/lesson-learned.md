@@ -19,7 +19,7 @@ Ainsi, lors des tests de regression, nous garantirons la stabilité du framework
 ## Normalisation
 
 Afin de bien documenter les leçons apprises et ainsi faciliter les échanges à ce sujet, une convention de nommage sera défini comme suit:
-- "[A-Z]{3}" 3 lettres majuscules pour le type de code
+- "[A-Z]{3}" 3 lettres majuscules pour le type de code (CER pour CodeError)
 - "-" en séparateur
 - "[A-Z]{3}" 3 lettres majuscules pour le nom du composant SAIF
 - "-" en séparateur
