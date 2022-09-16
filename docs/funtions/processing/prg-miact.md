@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Multaction
+title: MIACT
 nav_order: 1
 parent: Processing
 grand_parent: Functionalities
-permalink: /docs/functionalities/processing/multaction
+permalink: /docs/functionalities/processing/MIACT
 ---
 
 
-# Multaction
+# MIACT
 
 ## Présentation
 
