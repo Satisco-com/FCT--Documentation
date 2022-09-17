@@ -34,7 +34,13 @@ Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1
 |---	|---	|
 | CER-PRG-MIACT-00000  	| Unknown  	| 16 Sept 2022  	|
 | CER-PRG-MIACT-00001  	| No Action found  	| 16 Sept 2022  	|
-| CER-ITX-IEXEC-00002  	| User aborted map  	| 16 Sept 2022  	|
+| CER-PRG-MIACT-00002  	| No Stage found  	| 16 Sept 2022  	|
+
+
+| Lesson ID   	| Description  	| Initial Date  	|
+|---	|---	|
+| CER-ITX-IEXEC-00001  	| User aborted map  	| 16 Sept 2022  	|
+| CER-ITX-IEXEC-00002  	| Not enough memory to execute map  	| 17 Sept 2022  	|
 | CER-ITX-IEXEC-00003  	| Could not open map  	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00004  	| Could not read map  	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00005  	| Could not read inputs  	| 16 Sept 2022  	|
@@ -46,26 +52,18 @@ Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1
 | CER-ITX-IEXEC-00011  	| Could not build one or more outputs 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00012  	| Source not available 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00013  	| Could not open work files 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00014  	| One or more outputs was invalid 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00015  	| Map must be recompiled 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00016  	| Disk write error 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00017  	| Disk read error 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00018  	| Page usage count error 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00019  	| Internal calling error 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00020  	| Reopen file failed 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00021  	| Input valid but unknown data found 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00022  	| Page size too small 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00023  	| Unable to reuse work file 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00024  	| Database error 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00025  	| File attribute error 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00026  	| Output type in error 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00027  	| Output type contains errors 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00028  	| Input type contains errors 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00029  	| Output valid, but unknown data found 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00030  	| FAIL function aborted map 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00032  	| Invalid map instance handle 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00033  	| Map instance handle in use 	| 16 Sept 2022  	|
-| CWG-ITX-IEXEC-00034  	| Too few pages requested, more allocated 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00035  	| Insufficient number of pages to execute map 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00036  	| Could not open work files 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00037  	| Operation is not supported on the platform 	| 16 Sept 2022  	|
@@ -97,3 +95,15 @@ Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1
 | CER-ITX-IEXEC-00075  	| Adapter failed to get data on input 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00076  	| Adapter failed to put data on output 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00077  	| Invalid map name 	| 16 Sept 2022  	|
+
+
+| Lesson ID   	| Description  	| Initial Date  	|
+|---	|---	|
+| CWG-ITX-IEXEC-00014  	| One or more outputs was invalid 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00018  	| Page usage count error 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00021  	| Input valid but unknown data found 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00026  	| Output type in error 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00027  	| Output type contains errors 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00028  	| Input type contains errors 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00029  	| Output valid, but unknown data found 	| 16 Sept 2022  	|
+| CWG-ITX-IEXEC-00034  	| Too few pages requested, more allocated 	| 16 Sept 2022  	|
