@@ -95,6 +95,7 @@ Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1
 | CER-ITX-IEXEC-00075  	| Adapter failed to get data on input 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00076  	| Adapter failed to put data on output 	| 16 Sept 2022  	|
 | CER-ITX-IEXEC-00077  	| Invalid map name 	| 16 Sept 2022  	|
+| CER-ITX-IEXEC-00079  	| Linked map failure 	| 19 Sept 2022  	|
 
 
 | Lesson ID   	| Description  	| Initial Date  	|
