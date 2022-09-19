@@ -30,13 +30,13 @@ Afin de bien documenter les tests et ainsi faciliter les échanges à ce sujet, 
 
 ## Liste
 
-| Test ID   	| Description  	| Initial Date  	|
+| Test ID   	| Description  	| Lesson Learned  	| Initial Date  	|
 |---	|---	|---	|
-| TPT-PRG-MIACT-00001  	| Execute one action  	| 16 Sept 2022  	|
-| TPT-PRG-MIACT-00002  	| Map not found  	| 16 Sept 2022  	|
-| TPT-PRG-MIACT-00003  	| Map failed  	| 16 Sept 2022  	|
-| TPT-PRG-MIACT-00004  	| Invalid command  	| 16 Sept 2022  	|
-| TPT-PRG-MIACT-00005  	| Action not found  	| 16 Sept 2022  	|
-| TPT-PRG-MIACT-00006  	| Map warning  	| 17 Sept 2022  	|
-| TPT-PRG-MIACT-00007  	| Stage not found  	| 17 Sept 2022  	|
-| TPT-PRG-MIACT-00008  	| Execute two actions  	| 17 Sept 2022  	|
+| TPT-PRG-MIACT-00001  	| Execute one action  	|    | 16 Sept 2022  	|
+| TPT-PRG-MIACT-00002  	| Map not found  	| CER-ITX-IEXEC-00003   | 16 Sept 2022  	|
+| TPT-PRG-MIACT-00003  	| Map failed  	| CER-ITX-IEXEC-00076   | 16 Sept 2022  	|
+| TPT-PRG-MIACT-00004  	| Invalid command  	| CER-ITX-IEXEC-00065   | 16 Sept 2022  	|
+| TPT-PRG-MIACT-00005  	| Action not found  	| CER-PRG-MIACT-00001   | 16 Sept 2022  	|
+| TPT-PRG-MIACT-00006  	| Map warning  	| CWG-ITX-IEXEC-00021   | 17 Sept 2022  	|
+| TPT-PRG-MIACT-00007  	| Stage not found  	| CER-PRG-MIACT-00002   | 17 Sept 2022  	|
+| TPT-PRG-MIACT-00008  	| Execute two actions  	|    | 17 Sept 2022  	|
