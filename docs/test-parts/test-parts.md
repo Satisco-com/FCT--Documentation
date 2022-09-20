@@ -40,3 +40,5 @@ Afin de bien documenter les tests et ainsi faciliter les échanges à ce sujet, 
 | TPT-PRG-MIACT-00006  	| Map warning  	| CWG-ITX-IEXEC-00021   | 17 Sept 2022  	|
 | TPT-PRG-MIACT-00007  	| Stage not found  	| CER-PRG-MIACT-00002   | 17 Sept 2022  	|
 | TPT-PRG-MIACT-00008  	| Execute two actions  	|    | 17 Sept 2022  	|
+| TPT-PRG-MIACT-00009  	| Execute ten actions  	|    | 20 Sept 2022  	|
+| TPT-PRG-MIACT-00010  	| Execute from action 3  	|    | 20 Sept 2022  	|
