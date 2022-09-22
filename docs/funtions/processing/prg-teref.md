@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Techref
+title: TEREF
 nav_order: 3
 parent: Processing
 grand_parent: Functionalities
-permalink: /docs/functionalities/processing/techref
+permalink: /docs/functionalities/processing/teref
 ---
 
 
-# Techref
+# Technical References
 
 ## Présentation
 
@@ -31,11 +31,3 @@ En MAJUSCULES, les technical references de base fournies par SAIF uniquement.
 Toutes les autres, en minuscule ou avec la première lettre en majuscule, seront considérées comme des technical reference de flux.
 
 >**Note**: C'est une limite qu'il faudra tenter de mettre en place même si son application sera tout de même difficile.
-
-
-## SAIF
-
-|Technical Reference   	| Description  	|
-|---	|---	|
-| MSGID  	| SAI Message ID  	|
-| DOCID  	| SAI Document ID  	|
