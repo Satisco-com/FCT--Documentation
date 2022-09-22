@@ -42,5 +42,11 @@ Afin de bien documenter les tests et ainsi faciliter les échanges à ce sujet, 
 | TPT-PRG-MIACT-00008  	| Execute two actions  	|    | 17 Sept 2022  	|
 | TPT-PRG-MIACT-00009  	| Execute ten actions  	|    | 20 Sept 2022  	|
 | TPT-PRG-MIACT-00010  	| Execute from action 3  	|    | 20 Sept 2022  	|
-| TPT-PRG-MIACT-00011  	| Fail on Warn Control Option  	|    | 21 Sept 2022  	|
-| TPT-PRG-MIACT-00012  	| Trace Control Option  	|    | 21 Sept 2022  	|
+
+
+
+| Test ID   	| Description  	| Lesson Learned  	| Initial Date  	|
+|---	|---	|---	|
+| TPT-PRG-TEREF-00001  	| Fail on Warn Control Option  	|    | 21 Sept 2022  	|
+| TPT-PRG-TEREF-00002  	| Trace Control Option  	|    | 21 Sept 2022  	|
+| TPT-PRG-TEREF-00003  	| AuditLog Control Option  	|    | 22 Sept 2022  	|
