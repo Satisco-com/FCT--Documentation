@@ -7,7 +7,7 @@ permalink: /docs/monitor-model
 ---
 
 # Data Model
-[![Overview](../../assets/img/data-model/DataModel-v0.8.0.png)](../../../FCT--Documentation/assets/img/data-model/DataModel-v0.8.0.png)
+[![Overview](../../assets/img/gui-model/GuiModel-v0.0.0.png)](../../../FCT--Documentation/assets/img/dgui-model/GuiModel-v0.0.0.png)
 
 
 ## Presentation
