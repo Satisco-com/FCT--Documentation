@@ -20,6 +20,19 @@ Parlant d'une interface de configuration et administration, il est nécessaire d
 
 ## Securité
 
+La connexion est gérée via une paire username/password, qui sont mémorisés dans la base de données (chiffrage du mot de passe bien sûr).
+
+Les utilisateurs sont groupés par profil, un profil étant l'équivalent d'un groupe. Les droits sont accordés à un groupe.
+
+## Droits d'accès
+
+Les droits d'accès sont gérés via :
+	- 3 tables de définition permettant de déclarer les fenêtres, boutons et champs
+	- 2 tables d'accès permettant de définir si un profil donné a accès à un bouton ou un champ. 
+	- Pour les champs, un drapeau permet de gérer l'autorisation de modification
+	
+Ceci permet de créer des profils de visualisation ou de mise à jour.
+
 ## Historisation
 
 La mise à jour de règles est systématiquement capturée par un journal qui permet d'identifier l'auteur et le moment d'une action. 
