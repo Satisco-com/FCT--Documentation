@@ -35,6 +35,9 @@ Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1
 | CER-PRG-MIACT-00000  	| Unknown  	| 16 Sept 2022  	|
 | CER-PRG-MIACT-00001  	| No Action found  	| 16 Sept 2022  	|
 | CER-PRG-MIACT-00002  	| No Stage found  	| 16 Sept 2022  	|
+| CER-PRG-TEREF-00003  	| Action output is empty and mandatory  	| 16 Sept 2022  	|
+| CER-PRG-TEREF-00004  	| Final run command is empty  	| 26 Sept 2022  	|
+| CWG-PRG-TEREF-00001  	| Action output is empty  	| 16 Sept 2022  	|
 
 
 | Lesson ID   	| Description  	| Initial Date  	|
