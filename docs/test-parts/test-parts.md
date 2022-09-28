@@ -50,6 +50,7 @@ Afin de bien documenter les tests et ainsi faciliter les échanges à ce sujet, 
 | TPT_PRG_DAOUT_00002  	| One empty Output Data and optional  	| CWG-PRG-TEREF-00001   | 22 Sept 2022  	|
 | TPT_PRG_DAOUT_00003  	| One empty Output Data and mandatory  	| CER-PRG-TEREF-00003   | 26 Sept 2022  	|
 | TPT-PRG_DAOUT_00004  	| Output Action 1 to input Action 2  	|    | 27 Sept 2022  	|
+| TPT-PRG_DAOUT_00005  	| Output Action 1 to input Action 3  	|    | 28 Sept 2022  	|
 
 
 | Test TEREF ID   	| Description  	| Lesson Learned  	| Initial Date  	|
