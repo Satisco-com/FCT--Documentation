@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Glossary
-nav_order: 999
+title: 15-Glossary
+nav_order: 15000
 has_children: true
 permalink: /docs/glossary
 ---

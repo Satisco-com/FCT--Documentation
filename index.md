@@ -75,3 +75,24 @@ Les _Contributeurs_ sont:
 2. Le développement Agile: un marathon commence par un petit pas
 3. L'esprit d'équipe: chacun participe à la création du monument
 4. L'organisation: échange, spécification, documentation puis développement
+
+
+### La documentation
+La documentation fournit des informations sur la conception, la fabrication et le fonctionnement de **SAI**.
+C'est un point central de la connaissance et du partage autour de **SAI**, une organisation de rigueur est donc nécessaire.
+La suite de la documentation et du menu de navigation sera donc découpé selon le principe suivant:
+1.  Les informations **Business** de l'outil tel que les plaquettes commerciales ou les cas d'usage
+2.  NA
+3.  NA
+4.  NA
+5.  Les informations **Techniques** tel que les modèles de données ou les fonctionalités
+6.  NA
+7.  NA
+8.  NA
+9.  NA
+10.  Les informations de **Test** comme les cas d'essai ou les leçons apprises
+11.  NA
+12.  NA
+13.  NA
+14.  NA
+15.  Le Glossaire / Dictionnaire
