@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ITX
-parent: Glossary
+parent: 15-Glossary
 nav_order: 2
 ---
 
