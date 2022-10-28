@@ -74,4 +74,4 @@ Les _Contributeurs_ sont:
 1. L'indépendance logiciel: une architecture dénouée de tout lien produit
 2. Le développement Agile: un marathon commence par un petit pas
 3. L'esprit d'équipe: chacun participe à la création du monument
-4. L'organisation: Échange, spécification, documentation puis développement
+4. L'organisation: échange, spécification, documentation puis développement
