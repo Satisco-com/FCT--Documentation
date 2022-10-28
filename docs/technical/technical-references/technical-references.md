@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Technical References
-nav_order: 7
-permalink: /docs/technical-references
+nav_order: 5
+parent: 5-Technical
+permalink: /docs/technical/technical-references
 ---
 
 # Technical References

@@ -3,7 +3,7 @@ layout: default
 title: Waimpact
 nav_order: 4
 parent: Processing
-grand_parent: Functionalities
+grand_parent: 5-Functionalities
 permalink: /docs/functionalities/processing/waimpact
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: DAOUT
 nav_order: 2
 parent: Processing
-grand_parent: Functionalities
+grand_parent: 5-Functionalities
 permalink: /docs/functionalities/processing/daout
 ---
 

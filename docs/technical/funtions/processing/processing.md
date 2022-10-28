@@ -2,7 +2,7 @@
 layout: default
 title: Processing
 nav_order: 1
-parent: Functionalities
+parent: 5-Functionalities
 has_children: true
 permalink: /docs/functionalities/processing
 ---
@@ -15,4 +15,4 @@ permalink: /docs/functionalities/processing
 Ce _Processing_ a une particularité car même en admettant que **SAIF** soit principalement conçu avec **ITX**, il est possible d'avoir plusieurs Processing dans **SAI**.
 >**Exemple:** Un processing ITX principal, un Processing SBI secondaire et un Processing Java tierce.
 
-Le _Processing_ 
+Le _Processing_

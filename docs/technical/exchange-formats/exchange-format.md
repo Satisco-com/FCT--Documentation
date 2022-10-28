@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Exchange Formats
-nav_order: 4
-permalink: /docs/exchange-formats
+nav_order: 1
+parent: 5-Technical
+permalink: /docs/technical/exchange-formats
 ---
 
 # Exchange Formats

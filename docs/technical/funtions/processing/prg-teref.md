@@ -3,7 +3,7 @@ layout: default
 title: TEREF
 nav_order: 3
 parent: Processing
-grand_parent: Functionalities
+grand_parent: 5-Functionalities
 permalink: /docs/functionalities/processing/teref
 ---
 

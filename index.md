@@ -81,7 +81,7 @@ Les _Contributeurs_ sont:
 La documentation fournit des informations sur la conception, la fabrication et le fonctionnement de **SAI**.
 C'est un point central de la connaissance et du partage autour de **SAI**, une organisation de rigueur est donc nécessaire.
 La suite de la documentation et du menu de navigation sera donc découpé selon le principe suivant:
-1.  Les informations **Business** de l'outil tel que les plaquettes commerciales ou les cas d'usage
+1.  Les informations **Operational** de l'outil tel que les plaquettes commerciales ou les cas d'usage
 2.  NA
 3.  NA
 4.  NA

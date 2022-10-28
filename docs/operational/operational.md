@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1-Business Plan
+title: 1-Operational
 nav_order: 1000
-permalink: /docs/business-plan
+permalink: /docs/operational
 ---
 
-# Business Model
+# Operational
 [![Overview](../../assets/img/branding/BusinessDraw.png)](../../../FCT--Documentation/assets/img/branding/BusinessDraw.png)
 
 

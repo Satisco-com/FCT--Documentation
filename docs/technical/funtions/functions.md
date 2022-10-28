@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Functionalities
-nav_order: 5
+title: 5-Functionalities
+nav_order: 5000
 has_children: true
 permalink: /docs/functionalities
 ---
