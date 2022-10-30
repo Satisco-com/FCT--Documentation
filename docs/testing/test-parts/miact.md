@@ -2,7 +2,6 @@
 layout: default
 title: MIACT
 parent: Test Parts
-grand_parent: 10-Testing
 nav_order: 1
 ---
 
