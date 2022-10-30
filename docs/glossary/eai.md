@@ -1,8 +1,7 @@
 ---
 layout: default
 title: EAI
-parent: 15-Glossary
-nav_order: 1
+nav_order: 15100
 ---
 
 # EAI #

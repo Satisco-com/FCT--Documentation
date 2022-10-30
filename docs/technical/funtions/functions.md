@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 5-Functionalities
-nav_order: 5000
+title: Functionalities
+nav_order: 5300
 has_children: true
-permalink: /docs/functionalities
+permalink: /docs/technical/functionalities
 ---
 
 # Functionalities

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: 5-Technical
-nav_order: 5500
-has_children: true
+title: --Technical--
+nav_order: 5000
 permalink: /docs/technical
 ---
 
 # Technical
-
-## Presentation
+Les informations **Techniques** tel que les modèles de données ou les fonctionalités

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Test Parts
-nav_order: 7100
+nav_order: 10100
 has_children: true
-parent: 10-Testing
 permalink: /docs/testing/test-parts
 ---
 

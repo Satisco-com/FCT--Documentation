@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Technical References
-nav_order: 5
-parent: 5-Technical
+nav_order: 5400
 permalink: /docs/technical/technical-references
 ---
 

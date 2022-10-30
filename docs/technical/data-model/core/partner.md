@@ -2,14 +2,14 @@
 layout: default
 title: Pink - Partner
 parent: Core Model
-grand_parent: 5-Data Model
+grand_parent: Data Model
 nav_order: 5
 ---
 
 # Partner #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/data-model/Partner.png" width="250"></p>
+<p align="center"><img src="../../../../assets/img/data-model/Partner.png" width="250"></p>
 
 La section Partner reste optionnelle et permettra une meilleur visibilité et suivi dans le monitoring de SSB.
 

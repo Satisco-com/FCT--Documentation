@@ -2,14 +2,14 @@
 layout: default
 title: Blue - GUI Generalites
 parent: GUI Model
-grand_parent: 5-Data Model
+grand_parent: Data Model
 nav_order: 1
 ---
 
 # Communication #
 
 ## Introduction
-<p align="center"><img src="../../../assets/img/gui-model/GuiModel-v0.0.0.png" width="500"></p>
+<p align="center"><img src="../../../../assets/img/gui-model/GuiModel-v0.0.0.png" width="500"></p>
 
 Le GUI est l'interface graphique d'administration et configuration. Elle devrait intégrer le monitoring mais ce n'est pas un pré-requis.
 

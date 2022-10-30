@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 5-Data Model
-nav_order: 5000
+title: Data Model
+nav_order: 5100
 has_children: true
 permalink: /docs/data-model
 ---

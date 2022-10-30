@@ -2,15 +2,14 @@
 layout: default
 title: Black - IHM
 parent: Core Model
-parent: Core Model
-grand_parent: 5-Data Model
+grand_parent: Data Model
 nav_order: 8
 ---
 
 # IHM #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/data-model/IHM.png" width="600"></p>
+<p align="center"><img src="../../../../assets/img/data-model/IHM.png" width="600"></p>
 
 
 ## Generic Code et Details

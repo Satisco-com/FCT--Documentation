@@ -3,12 +3,12 @@ layout: default
 title: Core Model
 nav_order: 5100
 has_children: true
-parent: 5-Data Model
+parent: Data Model
 permalink: /docs/core-model
 ---
 
 # Data Model
-[![Overview](../../../assets/img/data-model/DataModel-v0.8.0.png)](../../../FCT--Documentation/assets/img/data-model/DataModel-v0.8.0.png)
+[![Overview](../../../../assets/img/data-model/DataModel-v0.8.0.png)](../../../FCT--Documentation/assets/img/data-model/DataModel-v0.8.0.png)
 
 
 ## Presentation

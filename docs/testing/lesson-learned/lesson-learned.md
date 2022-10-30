@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Lesson Learned
-nav_order: 7200
+nav_order: 10200
 has_children: true
-parent: 10-Testing
 permalink: /docs/testing/lesson-learned
 ---
 

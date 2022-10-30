@@ -2,7 +2,7 @@
 layout: default
 title: Processing
 nav_order: 1
-parent: 5-Functionalities
+parent: Functionalities
 has_children: true
 permalink: /docs/functionalities/processing
 ---

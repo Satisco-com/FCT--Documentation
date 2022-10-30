@@ -2,14 +2,14 @@
 layout: default
 title: Grey - Tools
 parent: Core Model
-grand_parent: 5-Data Model
+grand_parent: Data Model
 nav_order: 9
 ---
 
 # Tools #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/data-model/Tools.png" width="600"></p>
+<p align="center"><img src="../../../../assets/img/data-model/Tools.png" width="600"></p>
 
 
 ## Transform Format et Code

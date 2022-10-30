@@ -2,14 +2,14 @@
 layout: default
 title: Red - Message
 parent: Core Model
-grand_parent: 5-Data Model
+grand_parent: Data Model
 nav_order: 6
 ---
 
 # Message #
 
 ## Introduction
-<p align="center"><img src="../../assets/img/data-model/Message.png" width="250"></p>
+<p align="center"><img src="../../../../assets/img/data-model/Message.png" width="250"></p>
 
 La section Message reste optionnelle et permettra une meilleur visibilité et suivi dans le monitoring de SSB.
 Il est possible que ça ne soit pas nécessaire dans des versions light de SSB car celui-ci ne ferai qu’une seule tâche.
