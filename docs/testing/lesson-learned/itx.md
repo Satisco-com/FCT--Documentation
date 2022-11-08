@@ -2,7 +2,6 @@
 layout: default
 title: ITX
 parent: Lesson Learned
-grand_parent: 10-Testing
 nav_order: 1
 ---
 
