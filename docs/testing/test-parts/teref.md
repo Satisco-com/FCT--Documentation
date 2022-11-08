@@ -2,13 +2,13 @@
 layout: default
 title: TEREF
 parent: Test Parts
-nav_order: 1
+nav_order: 200
 permalink: /docs/testing/test-parts/teref
 ---
 
-# DAOUT
+# TEREF
 
-[Functionalities Processing Actions](../../../../FCT--Documentation/docs/functionalities/processing/TEREF)
+[Functionalities Processing Technical References](../../../../FCT--Documentation/docs/functionalities/processing/TEREF)
 
 ## Liste
 

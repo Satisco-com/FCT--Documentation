@@ -2,7 +2,7 @@
 layout: default
 title: TEREF
 parent: Lesson Learned
-nav_order: 1
+nav_order: 200
 ---
 
 # TEREF
@@ -13,6 +13,4 @@ nav_order: 1
 
 | Lesson ID   	| Description  	| Initial Date  	|
 |---	|---	|
-| CER-PRG-TEREF-00003  	| Action output is empty and mandatory  	| 16 Sept 2022  	|
-| CER-PRG-TEREF-00004  	| Final run command is empty  	| 26 Sept 2022  	|
-| CWG-PRG-TEREF-00001  	| Action output is empty  	| 16 Sept 2022  	|
+| CER-PRG-TEREF-00001  	| Final run command is empty  	| 26 Sept 2022  	|

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MIACT
-nav_order: 1
+nav_order: 100
 parent: Processing
 grand_parent: Functionalities
 permalink: /docs/functionalities/processing/MIACT

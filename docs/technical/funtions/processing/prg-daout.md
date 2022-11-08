@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DAOUT
-nav_order: 2
+nav_order: 300
 parent: Processing
 grand_parent: Functionalities
 permalink: /docs/functionalities/processing/daout

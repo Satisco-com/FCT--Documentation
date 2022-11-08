@@ -2,11 +2,11 @@
 layout: default
 title: ITX
 parent: Lesson Learned
-nav_order: 1
+nav_order: 50
 ---
 
 # ITX
-Official IBM Documentation for ITX Codes: https://www.ibm.com/docs/en/ste/10.1.1?topic=messages-map-execution-error-warning
+[Official IBM Documentation for ITX Codes](https://www.ibm.com/docs/en/ste/10.1.1?topic=messages-map-execution-error-warning)
 
 
 ## Errors

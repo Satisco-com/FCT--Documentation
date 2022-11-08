@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Waimpact
-nav_order: 4
+title: WAIPA
+nav_order: 400
 parent: Processing
 grand_parent: Functionalities
 permalink: /docs/functionalities/processing/waimpact
 ---
 
 
-# Waimpact
+# WAIPA
 
 ## Présentation
 
