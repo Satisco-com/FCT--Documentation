@@ -15,8 +15,8 @@ permalink: /docs/functionalities/processing/waimpact
 
 Pour chaque action, il sera possible de définir une ou plusieurs sortie via la table DAT_DATA.
 Chacune de ces sorties pourra avoir un impact sur l'execution du flux.
-La fonctionalité waimpact a pour but de générer une *attente*, un *délai* pour un besoin business.
 
+Il sera par exemple possible d'arrêter le flux, de le router vers un autre flux ou encore de mettre le message *attente* pour un besoin business.
 Une telle solution peut avoir un impact important en fonction de la technologie utilisée car le fait d'attendre induit la question de savoir si l'on met en pause la tâche mais celle-ci reste en sommeil, ou encore si l'on arrête la tâche pour plus tard mais dans ce cas, comment la reprendre au bon endroit?
 
 En utilisant ITX et MQ, il est possible d'obtenir une solution fiable avec des délais variables sans impacter les performances.
