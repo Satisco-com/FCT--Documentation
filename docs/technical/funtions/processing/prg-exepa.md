@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WAIPA
+title: EXEPA
 nav_order: 400
 parent: Processing
 grand_parent: Functionalities
@@ -8,7 +8,7 @@ permalink: /docs/functionalities/processing/waimpact
 ---
 
 
-# WAIPA
+# EXEPA
 
 ## Présentation
 
