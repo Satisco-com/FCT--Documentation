@@ -23,4 +23,3 @@ nav_order: 100
 | TPT_PRG-MIACT_00008  	| Execute two actions  	|    | 17 Sept 2022  	|
 | TPT_PRG-MIACT_00009  	| Execute ten actions  	|    | 20 Sept 2022  	|
 | TPT_PRG-MIACT_00010  	| Execute from action 3  	|    | 20 Sept 2022  	|
-| TPT_PRG-MIACT_00011  	| Execuse ten actions but failed at 3rd   	|    | 9 Nov 2022  	|

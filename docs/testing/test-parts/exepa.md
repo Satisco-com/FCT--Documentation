@@ -13,4 +13,4 @@ nav_order: 400
 
 | Test EXEHA ID   	| Description  	| Lesson Learned  	| Initial Date  	|
 |---	|---	|---	|
-| TPT_PRG-MIACT_00011  	| Execuse ten actions but failed at 3rd   	|    | 9 Nov 2022  	|
+| TPT_PRG-EXEHA_00001  	| Automatic STOP execution on error   	|    | 9 Nov 2022  	|
