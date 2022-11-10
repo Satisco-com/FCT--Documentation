@@ -1,10 +1,10 @@
 ---
 layout: default
-title: EXEPA
+title: EXEHA
 nav_order: 400
 parent: Processing
 grand_parent: Functionalities
-permalink: /docs/functionalities/processing/waimpact
+permalink: /docs/functionalities/processing/exeha
 ---
 
 
@@ -29,3 +29,11 @@ Ceci permettera de définir des temps complètement variables en secondes et ain
 >**Exemple**: l'appel d'une API de génération de PDF qui indique que le PDF n'est pas encore prêt. L'action sort une data indiquant un wait time de 15secondes.
 
 En couplant cette fonctionalité avec les technical reference, il devient possible de définir un nombre maximum d'essai voir un wait variable en fonction du business ou du nombre d'essaie.
+
+
+
+
+Gestion des EVENT/KO/CODE
+
+La base est un code retour ITX (12) lié à une DATA et un EXEC IMPACT STOP
+Code générique ERROR avec un exec impact STOP
