@@ -21,17 +21,17 @@ All notable changes to this project are documented in this file.
 
 ## Features
 
-- Après une courte revu, il parait évident que la décorelation entre Flow, Message et Partner permet de supprimer le besoin d'une table de jonction entre Flow et Stage.
-- Nous supprimons donc Scenario pour renommer ensuite Flow par Scenario.
+- Après une courte revue, il parait évident que la décorrélation entre Flow, Message et Partner permet de supprimer le besoin d'une table de jonction entre Flow et Stage.
+- Nous supprimons donc Scenario pour renommer ensuite _Flow_ en _Scenario_.
 
 ## v0.5.0
 [Annex 4](../../../../assets/img/data-model/archives/DataModel-v0.5.0.png)
 
 ### Features
 
-- Il est ici question de la gestion événementiel dans SSB.
+- Il est ici question de la gestion événementielle dans **SAI**.
 - L'idée est de supprimer la table côté Framework beaucoup trop générique et de la transposer à l'intérieur de la partie Data.
-- Cela va permettre de nettoyer aussi le future Processing d'une gestion EVENT complexe et de les lier directement au produit d'une action.
+- Cela va permettre de nettoyer aussi le futur Processing d'une gestion EVENT complexe et de les lier directement via d'une action.
 - Les codes communs sont possiblement à prévoir dans la partie Label/value
 
 ## v0.4.0
@@ -49,7 +49,7 @@ All notable changes to this project are documented in this file.
 
 ### Features
 
-- Cette révision du modèle de données de SSB permet de supprimer la relation entre un Partner et un Flux.
+- Cette révision du modèle de données de **SAI** permet de supprimer la relation entre un Partner et un Flux.
 - L’idée est de dire qu’un Partner n’est pas forcément lié à un flux mais que dans tous les cas, un Channel lui est forcément lié à un Partner qu’il soit interne ou externe.
 - Ceci permet de supprimer la table de jonction entre un Tower Flow et la section Partner.
 - Ceci permet de supprimer le lien entre Shunting et Partner, il devient ici implicit via la table Channel.

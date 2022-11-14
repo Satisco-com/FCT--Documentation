@@ -13,7 +13,7 @@ nav_order: 4
 
 La partie Communication Settings représente ce qu’on appellera dans le futur les Connector In et Connector Out du Framework.
 
-Ces settings représenterons tout type de connectivité à SSB. Des échanges interne MQ à un partner externe en SFTP.
+Ces settings représenterons tout type de connectivité à **SAI**. Des échanges interne MQ à un partner externe en SFTP.
 
 ## Node
 Le Node est un point central de la connectivité, il représente un point de connection ainsi qu’une méthode.

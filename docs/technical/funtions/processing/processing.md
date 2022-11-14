@@ -13,6 +13,6 @@ permalink: /docs/functionalities/processing
 
 **SAI** ne contient pas beaucoup de composants framework et le _Processing_ est l'un d'eux.
 Ce _Processing_ a une particularité car même en admettant que **SAIF** soit principalement conçu avec **ITX**, il est possible d'avoir plusieurs Processing dans **SAI**.
->**Exemple:** Un processing ITX principal, un Processing SBI secondaire et un Processing Java tierce.
+>**Exemple:** Un processing ITX principal, un Processing SBI secondaire et un Processing Java tiers.
 
 Le _Processing_

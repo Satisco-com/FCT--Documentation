@@ -22,4 +22,4 @@ Il est ensuite assez facilement compréhensible que chaque sortie peut-être ren
 
 Le but est de permettre l'échange de données sans passer par l'action suivante/précédente. Il en résulte la diminution de la consommation RAM du Processing et une facilité de gestion d'action partagée accrue.
 
->**Exemple**: Une première activité de control avant d'effectuer la transformation des données. Un control peut être de type fonctionnel ou technique comme la gestion de traitement séquentiel.
+>**Exemple**: Une première activité de contrôle avant d'effectuer la transformation des données. Un contrôlee peut être de type fonctionnel ou technique comme la gestion de traitement séquentiel.

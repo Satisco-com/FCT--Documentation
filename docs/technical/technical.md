@@ -6,4 +6,4 @@ permalink: /docs/technical
 ---
 
 # Technical
-Les informations **Techniques** tel que les modèles de données ou les fonctionalités
+Les informations **Techniques** telles que les modèles de données ou les fonctionalités

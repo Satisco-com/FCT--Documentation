@@ -13,7 +13,7 @@ permalink: /docs/functionalities/processing/exeha
 ## Présentation
 
 
-Pour chaque action, il sera possible de définir une ou plusieurs sortie via la table DAT_DATA.
+Pour chaque action, il sera possible de définir une ou plusieurs sorties via la table DAT_DATA.
 Chacune de ces sorties pourra avoir un impact sur l'execution du flux.
 
 Il sera par exemple possible d'arrêter le flux, de le router vers un autre flux ou encore de mettre le message *attente* pour un besoin business.
@@ -28,7 +28,7 @@ Côté ITX cela demande l'utilisation des header MQ et c'est tout.
 Ceci permettera de définir des temps complètement variables en secondes et ainsi donnera une grande liberté au développeur.
 >**Exemple**: l'appel d'une API de génération de PDF qui indique que le PDF n'est pas encore prêt. L'action sort une data indiquant un wait time de 15secondes.
 
-En couplant cette fonctionalité avec les technical reference, il devient possible de définir un nombre maximum d'essai voir un wait variable en fonction du business ou du nombre d'essaie.
+En couplant cette fonctionalité avec les technical reference, il devient possible de définir un nombre maximum d'essai voir un wait variable en fonction du business ou du nombre d'essais.
 
 
 
