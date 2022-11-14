@@ -20,9 +20,11 @@ Le projet et la branch ont pour but de faciliter le support en cas de besoin et 
 Il faut faire attention ici au fait qu'il est difficile de retrouver une source à partir d'un compilé, une bonne organisation est de rigueur pour garantir un support maximum.
 Le nombre d'input et d'output sont des variables à renseigner automatiquement par une industrialisation et doivent être utilisées par l'IHM afin de forcer le setup de toutes les cartes.
 
+**note** (LBA) voir si on pourrait lier une branche Git avec le checksum d'une map?
+
 ## Map Settings
-Ce sont ici des settings globaux à la map, l'audit log, le data audit, l'activation des traces DB (nécessitant des bonnes pratiques de code).
-Le threshold permet de définir des options implicit (à voir si nous devons les passer en explicit) et dépend de la taille de l'entrée de la map. Par exemple, si celle-ci dépasse le threshold, alors le workspace de la map sera en mode fichier sinon mémoire.
+Ce sont ici des paramètres globaux à la map, l'audit log, le data audit, l'activation des traces DB (nécessitant des bonnes pratiques de code).
+Le threshold permet de définir des options implicites (à voir si nous devons les passer en explicite) et dépend de la taille de l'entrée de la map. Par exemple, si celle-ci dépasse le threshold, alors le workspace de la map sera en mode fichier sinon mémoire.
 Il peut être interessant de réfléchir à avoir des options comme PageSize et PageCount qui dépendent eux aussi de la taille de l'entrée.
 
 ## CardOptions
