@@ -8,7 +8,7 @@ permalink: /docs/functionalities/processing/exeha
 ---
 
 
-# EXEPA
+# EXEHA
 
 ## Présentation
 
@@ -30,6 +30,15 @@ Ceci permettera de définir des temps complètement variables en secondes et ain
 
 En couplant cette fonctionalité avec les technical reference, il devient possible de définir un nombre maximum d'essai voir un wait variable en fonction du business ou du nombre d'essais.
 
+
+## Error Handling
+
+<p align="center"><img src="../../../assets/img/functions/Functions-Processing-1-ErrorHandling.png" width="400"></p>
+En cas d'erreur sur une activité lors de son execution, il est important de savoir quel choix devra être fait:
+1. Je continue le flux.
+2. J'arrête le flux.
+Si l'on continue, il faudra s'assurer que c'est effectivement possible.
+En cas d'arrêt, il faut monitorer tout ce qui est disponible.
 
 
 
