@@ -11,7 +11,7 @@ permalink: /docs/operational/overview
 
 # Vulgarisation de SAI
 
-Depuis les années 1990, l'informatique n'a fait qu'évoluer et prendre de plus en plus de place dans nos vie.
+Depuis les années 1990, l'informatique n'a fait qu'évoluer et prendre de plus en plus de place dans nos vies.
 On peut compter aujourd'hui 7000 Langues dans le monde alors qu'il existe pas loin de 9000 langages de programmation.
 Aujourd'hui à l'heure du tout digital et du cloud, là où l'informatique devait nous aider finalement nous contraint.
 
