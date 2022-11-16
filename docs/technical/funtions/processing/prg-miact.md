@@ -34,4 +34,4 @@ La fonctionalité peut sembler simple et c'est le cas, cependant elle induit une
 ## SAI Identifier
 
 {: style="text-align: justify" }
-Cette fonctionalité sera identifier plus tard sous le nom de "MIACT". Tout ce qui concerne donc les test parts, les codes error ou warning et tous liens avec celle-ci seront docn mentionnés avec MIACT.
+Cette fonctionalité sera identifier plus tard sous le nom de **MIACT**. Tout ce qui concerne donc les test parts, les codes error ou warning et tous liens avec celle-ci seront docn mentionnés avec **MIACT**.
