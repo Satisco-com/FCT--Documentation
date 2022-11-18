@@ -15,7 +15,7 @@ permalink: /docs/functionalities/processing/MIACT
 <p align="center"><img src="../../../assets/img/functions/Functions-Processing-1.png" width="400"></p>
 
 {: style="text-align: justify" }
-**Executer une ou plusieurs actions**, c'est **LA** fonctionalité primaire de SAI.
+**Executer une ou plusieurs actions** est **LA** fonctionalité primaire de SAI.
 Son but est de pouvoir executer une ou plusieurs actions à la suite, c'est à dire dans une seule et même execution de Processing.
 
 
@@ -23,7 +23,7 @@ Son but est de pouvoir executer une ou plusieurs actions à la suite, c'est à d
 
 {: style="text-align: justify" }
 L'avantage d'une telle fonctionalité est tout d'abord l'impact sur les performances. En effet, plus besoin de sortir du process d'execution, écrire puis lire des données qui ont déjà été lues.
-Cette fonctionnalité est le résultat d'une expérience professionnelle précédente que vous pouvez lire [dans le Golden Book Link](/FCT--Documentation/docs/operational/golden-book/#ADA - Un processus pour plusieurs actions)
+>*Cette fonctionnalité est le résultat d'une expérience professionnelle précédente que vous pouvez retrouver [dans le Golden Book](../../../../FCT--Documentation/docs/operational/golden-book/#ADA - Un processus pour plusieurs actions)*
 
 {: style="text-align: justify" }
 La fonctionalité peut sembler simple et c'est le cas, cependant elle induit une complexité suplémentaire sur d'autres fonctionalités:

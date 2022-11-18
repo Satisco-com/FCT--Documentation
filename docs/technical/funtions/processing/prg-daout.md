@@ -15,21 +15,25 @@ permalink: /docs/functionalities/processing/daout
 <p align="center"><img src="../../../assets/img/functions/Functions-Processing-2.png" width="400"></p>
 
 {: style="text-align: justify" }
-**Executer une ou plusieurs actions**, c'est **LA** fonctionalité primaire de SAI.
-Son but est de pouvoir executer une ou plusieurs actions à la suite, c'est à dire dans une seule et même execution de Processing.
+**Gérer des données de sortie d'une Action** est une des fonctionnalité fondamentale de **SAI**.
+Elle permet de gérer la transformation ou le routage de données via le setup.
 
-## Présentation
+## Détails Techniques
 
+{: style="text-align: justify" }
+Dans un premier temps, les sorties seront traitées de manière automatiques dans un mode "fichier". L'idée est que l'utilisateur définiera sa donné de sortie en deux temps. D'abord via une *technical reference* sur la carte de sortie concernée qui servira de liens vers ensuite une *Data* liée cette fois à l'*Action* dans laquelle il sera possible de fournir plus de détails la concernant.
+>*Cette particularité est le résultat d'une expérience professionnelle précédente que vous pouvez retrouver [dans le Golden Book](../../../../FCT--Documentation/docs/operational/golden-book/#ADA/JTSO - La gestion des données de sortie)*
 
-Il est ici question d'une fonctionalité assez inédite n'existant pas encore.
-Il faut tout d'abord noter que chaque sortie d'une action a un nom unique grâce au DataModel.
+{: style="text-align: justify" }
+Il est ici question d'une fonctionalité inédite. L'idée chaque sortie d'une action a un nom unique grâce au DataModel.
 >**Note**: ce nom unique l'est dans tout le modèle et pas seulement pour le contexte de l'action, le stage ou le scenario.
 
-Il est ensuite assez facilement compréhensible que chaque sortie peut-être renvoyée à une autre action un peu plus loin dans le process, ceci grâce uniquement à l'unicité du nom de chaque sortie.
 
-Le but est de permettre l'échange de données sans passer par l'action suivante/précédente. Il en résulte la diminution de la consommation RAM du Processing et une facilité de gestion d'action partagée accrue.
+## Pros & Cons
 
->**Exemple**: Une première activité de contrôle avant d'effectuer la transformation des données. Un contrôlee peut être de type fonctionnel ou technique comme la gestion de traitement séquentiel.
+{: style="text-align: justify" }
+L'identification unique d'une donnée permet de la partager entre deux *Actions* et ce même si ces actions ne se suivent pas dans un même processus.
+Le Processing n'a donc plus à traiter les données mais uniquement son identifiant, il consomme donc beaucoup moins de mémoire.
 
 
 ## SAI Identifier
