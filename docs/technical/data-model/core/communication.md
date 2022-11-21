@@ -16,7 +16,7 @@ La partie Communication Settings représente ce qu’on appellera dans le futur 
 Ces settings représenterons tout type de connectivité à **SAI**. Des échanges interne MQ à un partner externe en SFTP.
 
 ## Node
-Le Node est un point central de la connectivité, il représente un point de connection ainsi qu’une méthode.
+Le Node est un point central de la connectivité, il représente un point de connexion ainsi qu’une méthode.
 
 C’est par exemple l’adresse 10.0.0.1 en FTP avec l’utilisateur admin et mot de passe password.
 

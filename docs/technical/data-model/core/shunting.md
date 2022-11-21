@@ -11,7 +11,7 @@ nav_order: 2
 ## Introduction ##
 <p align="center"><img src="../../../../assets/img/data-model/Shunting.png" width="250"></p>
 
-L'expérience de __XXXX__ a permis de démontrer que des __composants__ et fonctionalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
+L'expérience de __XXXX__ a permis de démontrer que des __composants__ et fonctionnalités de __Matching et Routing__ sont __similaires__ en maintenance et fonctionalités,
 La révision __2.0.0__ du modèle __XXXX__ a donc permis de créer un nouveau composant, le __Shunting__.
 
 Le __Shunting__ sera donc la __gare de triage de FCT__ que ce soit depuis une __communication externe__ ou même à l'interieur d'un __scénario__.
@@ -35,10 +35,10 @@ Il sera donc possible de passer d'un __Channel à un Scenario__, d'une __Data à
 
 ## Rules ##
 Cette table est basée sur le __principe de clé/valeur__. C'est une __extension de Shunting__ afin d'ajouter de nouveau mode plus __avancés__.
-L'idée est de pouvoir créer de nouvelles __briques d'identifications__, __pas__ toujours forcément __nécessaires mais utiles__ dans certains cas.
+L'idée est de pouvoir créer de nouvelles __briques d'identification__, __pas__ toujours forcément __nécessaires mais utiles__ dans certains cas.
 > **Example:** des règles de type EDIFACT afin de vérifier une valeur précise à l'interieur d'un fichier IN
 
 > **Example:** des règles de type REGEX appliquées sur le nom du fichier IN
 
 Pour qu'un __Shunting soit validé__, il faudra que l'intégralité des __rules__ liées le soit __aussi__.
-La __priorité__ y sera aussi géré mais d'une façon différent du Shunting. Il sera ici question de définir en __priorité 1__, les __règles__ qui sont __vrai le moins souvent__ possible. De cette façon, la __première rule non valide__ permettera d'__invalider le Shunting__ lié.
+La __priorité__ y sera aussi gérée mais d'une façon différente du Shunting. Il sera ici question de définir en __priorité 1__, les __règles__ qui sont __vraies le moins souvent__ possible. De cette façon, la __première rule non valide__ permettera d'__invalider le Shunting__ lié.

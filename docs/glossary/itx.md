@@ -8,6 +8,6 @@ nav_order: 15200
 
 ## Présentation
 
-ITX comme IBM Transformation eXtender qui a eu de nombreux nom dans l'histoire et en aura certainement encore d'autre.
+ITX comme IBM Transformation eXtender qui a eu de nombreux noms dans l'histoire et en aura certainement encore d'autre.
 
-C'est un logiciel conçu pour la transformation de données, ultra performant et stable sous condition, comme tout bon logiciel qui se respect, qu'il soit bien développé.
+C'est un logiciel conçu pour la transformation de données, ultra performant et stable sous condition, comme tout bon logiciel qui se respecte, qu'il soit bien développé.

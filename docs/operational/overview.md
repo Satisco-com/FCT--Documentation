@@ -20,9 +20,9 @@ Elle nous contraint à respecter des normes précises pour que notre interlocute
 
 
 Quotidiennement nous faisons des actions manuelles qui nous semblent anodines et logiques:
-- Analyser (une facture refusée, un mauvais article envoyé, un bon de réduction invalide, une erreur de prix)
-- Rapporter (par email, sur un cloud comme Sharepoint ou Google)
-- Corriger (générer la nouvelle facture ou publier le nouveau prix chez les partenaires)
+- Analyser (une facture refusée, un mauvais article envoyé, un bon de réduction invalide, une erreur de prix).
+- Rapporter (par email, sur un cloud comme Sharepoint ou Google).
+- Corriger (générer la nouvelle facture ou publier le nouveau prix chez les partenaires).
 L'Humain n'étant pas exampt de défaut, le facteur Humain dans l'informatique est:
 - Consommateur de temps car nous serons toujours plus lents qu'un ordinateur.
 - Générateur d'erreur car "l'erreur est humaine" et notre mémoire n'est pas infaillible.
@@ -35,5 +35,5 @@ L'automatisation de notre travail permet donc de:
 - Une surveillance accrue car nous seront alertés au moindre problème.
 
 
-SAI, c'est un peu comme un téléphone sorti en 2007 qui passait un peu pour un OVNI aux yeux de tous.
+__SAI__, c'est un peu comme un téléphone sorti en 2007 qui passait un peu pour un OVNI aux yeux de tous.
 Il était difficile de savoir à quoi il pourrait bien servir jusqu'à ce qu'on s'en serve et le découvre.

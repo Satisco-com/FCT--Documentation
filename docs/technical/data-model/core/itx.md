@@ -28,5 +28,5 @@ Le threshold permet de définir des options implicites (à voir si nous devons l
 Il peut être interessant de réfléchir à avoir des options comme PageSize et PageCount qui dépendent eux aussi de la taille de l'entrée.
 
 ## CardOptions
-C'est ici que le setup final de la map et de chacune de ses carte sera défini.
+C'est ici que le setup final de la map et de chacune de ses cartes sera défini.
 Il faut penser IHM, d'abord pour les adapters où des Label/Value seront mis en place mais aussi pour les commandes où un Wizard pourrait être mis en place car chaque adapteur à ses propres commandes.

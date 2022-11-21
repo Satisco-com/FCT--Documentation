@@ -24,7 +24,7 @@ Le __second__ principe __important__ est de garder la possibilité de __réutili
 
 ## Scenario ##
 Cette table était dans une version beta de FCT, une table de jonction entre un Assembly et un Stage et permettait la __réutilisabilité__ d'un groupe de Stage et donc d'Action.
-__L'évolution__ de FCT a permis __d'affranchir__ l'interraction entre un __Assembly__ et les informations __fonctionnelles Partner et Message__.
+__L'évolution__ de FCT a permis __d'affranchir__ l'interaction entre un __Assembly__ et les informations __fonctionnelles Partner et Message__.
 
 Un __Scenario__ représente donc aujourd'hui __un ou plusieurs Stage__ qui peuvent avoir des types différents.
 Son but est de permettre la __réutilisatibité__ d'un __process__ en entier pour un __Partner et un Message différent__.
@@ -53,10 +53,10 @@ Elle permet non seulement d'utiliser une même __map ITX__ dans des configuratio
 ## Data ##
 Elle est apparue lors de la révision du modèle __, version 2.0.0__ lors de l'étude de la __problématique__ concernant la partie __Routing__.
 L'idée était de rassembler les fonctionalités de Matching et Routing mais pour cela nécessitait de supprimer les liens vers Processing, ITX et Communication.
-Cette table sera une des __rare contrainte__ pour les __dévelopeurs__ car elle nécessitera certainement un format spécifique pour le framework afin de parser correctement les données et paramètres.
-Son but est de permettre __l'identification__ précise d'une __données de sortie__ et ainsi ne plus la lier forcément à une carte de sortie physique ITX.
-Nous pourrons ensuite définir un __identifiant de groupe__ soit pour de l'envoie groupé. L'identifiant sera une clé primaire et permettra la garantie d'unicité.
-> **Example:** Le serveur d'un client n'accepte que 10 connexions en parallèles. L'envoie est donc groupé pour diminuer le nombre de connexions simultanées.
+Cette table sera une des __rare contraintes__ pour les __développeurs__ car elle nécessitera certainement un format spécifique pour le framework afin de parser correctement les données et paramètres.
+Son but est de permettre __l'identification__ précise d'une __donnée de sortie__ et ainsi ne plus la lier forcément à une carte de sortie physique ITX.
+Nous pourrons ensuite définir un __identifiant de groupe__ soit pour de l'envoi groupé. L'identifiant sera une clé primaire et permettra la garantie d'unicité.
+> **Example:** Le serveur d'un client n'accepte que 10 connexions en parallèles. L'envoi est donc groupé pour diminuer le nombre de connexions simultanées.
 
 ou encore pour prévoir l'envoie de fichiers provenant de scénario différent
 > **Example:** Un client qui ne souhaite recevoir toute ses factures en même temps

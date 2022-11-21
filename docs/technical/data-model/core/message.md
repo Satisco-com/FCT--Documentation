@@ -29,6 +29,6 @@ Par exemple à la ..., les domaines Facturation, ECommerce ou encore Logistic so
 
 ## Format
 Ici c'est la représentation d'un format technique d'un message. Plusieurs normes mondiales sont disponibles.
-Par exemple rien que dans le domaine de l'EDI, les standards principaux sont EDIFACT et X12 et eux même contiennentt plusieurs sous standard par année, version, puis par type de messages.
+Par exemple rien que dans le domaine de l'EDI, les standards principaux sont EDIFACT et X12 et eux même contiennent plusieurs sous standards par année, version, puis par type de messages.
 Le domaine bancaire se trouve manifestement dans la même configuration.
 **note** (LBA)voir comment on gère des variantes par partenaire?

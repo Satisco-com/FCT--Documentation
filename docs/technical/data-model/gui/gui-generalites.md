@@ -21,7 +21,7 @@ Parlant d'une interface de configuration et administration, il est nécessaire d
 
 ## Securité
 
-La connexion est gérée via une paire username/password, qui sont mémorisés dans la base de données (chiffrage du mot de passe bien sûr).
+La connexion est gérée via une paire username/password, qui sont mémorisés dans la base de données (avec chiffrage du mot de passe bien sûr).
 
 Les utilisateurs sont groupés par profil, un profil étant l'équivalent d'un groupe. Les droits sont accordés à un groupe.
 
@@ -40,4 +40,4 @@ La mise à jour de règles est systématiquement capturée par un journal qui pe
 
 ## Déploiement
 
-Le rôle du GUI pour l'exécution s'arrête au moment où un utilisateur autorisé clique le bouton "déployer", génèrant ainsi le fichier de règle utilisé par le moteur d'exécution pour effectuer son routage.
+Le rôle du GUI pour l'exécution s'arrête au moment où un utilisateur autorisé clique le bouton "déployer", génèrant ainsi le fichier de règles utilisé par le moteur d'exécution pour effectuer son routage.
